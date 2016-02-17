@@ -9,6 +9,7 @@ var Person = (function () {
     };
     return Person;
 })();
+// function with meaningful name!
 function foo() {
     var person = new Person();
     person.firstName = 'Shahedur';

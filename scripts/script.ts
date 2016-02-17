@@ -8,7 +8,6 @@ class Person {
     email: string;
 
     constructor() {
-
     }
 
     verify() {
